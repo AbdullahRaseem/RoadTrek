@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "CityTrek",
-    "slug": "CityTrek",
+    "name": "CityLine",
+    "slug": "CityLine",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "citytrek",
+    "scheme": "cityline",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"
